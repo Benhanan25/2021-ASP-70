@@ -1,0 +1,5 @@
+Cramer's V (adj.) |       95% CI
+--------------------------------
+0.04              | [0.04, 1.00]
+
+- One-sided CIs: upper bound fixed at [1.00].
