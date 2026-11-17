@@ -1,5 +1,7 @@
 # AMR Bioinformatics: *Escherichia coli* Antimicrobial Resistance Analysis
+## 🌐 Live Project Report
 
+[![View Live Report](https://img.shields.io/badge/View-Live_Report-blue?style=for-the-badge)](https://benhanan25.github.io/2021-ASP-70/AMR_Bioinformatics_Final_Report.html)
 ## 1. Project overview
 
 This project analyses antimicrobial-resistance (AMR) information for *Escherichia coli* using the public AMRnet tabular data export. The main workflow uses R to inspect the dataset, clean duplicate records, summarize reported AMR categories and determinants, visualize frequently reported genes, examine country-level patterns, and perform an exploratory chi-square analysis.
